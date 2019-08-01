@@ -1,1 +1,1 @@
-# MindSporeStudio
+# MindSpore Studio
