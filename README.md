@@ -22,4 +22,4 @@ Mind Studio是一套基于华为NPU(Neural-network Processing Unit)开发的AI�
   
 ## 下载
 
-请前往[Release](https://github.com/huaweiatlas/MindStudio/releases)页面下载
+请前往[Releases](https://github.com/huaweiatlas/MindStudio/releases)页面下载
