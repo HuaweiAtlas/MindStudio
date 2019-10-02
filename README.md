@@ -19,7 +19,7 @@ Mind Studio是一套基于华为NPU(Neural-network Processing Unit)开发的AI�
 * 针对应用开发
   
   Mind Studio内部集成了各种工具如Profiler、Compiler等，为用户提供图形化的集成开发环境，通过Mind Studio进行工程管理、编译、调试、仿真、性能分析等全流程开发，从而提高开发效率。
-  
+
 ## 下载
 
 请前往[Releases](https://github.com/huaweiatlas/MindStudio/releases)页面下载
