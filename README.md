@@ -24,5 +24,4 @@ Mind Studio is an AI full-stack development platform developed based on Huawei's
 ## Download
 
 Please go to the page [Releases](https://e-share.obs-website.cn-north-1.myhuaweicloud.com/?token=U2FsdGVkX19mm1PWqGLXyTTxDWKYfp5euASflwj7gkw7NLLNbXXTzSwJtg8ZPJkUesLhTBE3S89ryXygJZfMxI2bYJuPN7N8VCvwLwLmQofHZQT7pwGvjHsNY9bORioVVwmZlDV3u6hPJxXILy/Bw6+tatleSi7H5rgcRx8n4li2+xRJ1HT2nrsiGef2iQkkkrfVcam5+U275AAT6/oWHV428YFkzEvqYYoBwaKBuOxU6Vrpxjgd6uazChjAvc5C555HvabjDMnAl+zPQe2KPpnXyksGqj8ru9oj0zI1Row8m3aCZKn+EyglVlqzFvt+8Qh0aVuq16Q3jpEHF/cYwc4hcgCbi910Vh4qQNlxkdzjiR+mg4IAlkC1nmd1MtAfPxyDTul0faGQ3nTrAUCcoOl793t6b7ZLA5DUVcvDSYd+0dgQOP7qXVDmvukoKP7G+tdtvYPz9zRWXQJeOxMSikL82VdPmc6SQBe7cR/zEln1ufhNdiAEKApMHzvG9lbHFT3r7OCsbo/y3+59Sf4aDRiBU2wKsBcT131tdn30kfwoDIG3H797V5ZHEY0F9fZVLEHu2vyuG0Y65bMvhDWze3FUr3KuvCXfgy1NWdpxFAvJGGPhkxd2IjEtWETkE8DgFJEOOmphxmKnyn8ZbXuXWg==).
-
-**password：666666.**
+**Password：666666.**
